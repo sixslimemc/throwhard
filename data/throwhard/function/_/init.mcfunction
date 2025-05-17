@@ -1,0 +1,10 @@
+#> throwhard:_/init
+#--------------------
+# @init
+#--------------------
+
+data modify storage throwhard:config throw.snowball set value {enable:true, add:false, force:{transfer_player_motion:true, base:1d, fling:{multiplier:1.5d}, variation:{rotation:{radial:{min:0, max:1}}}}}
+
+data modify storage throwhard:config throw.item set value {enable:true, fast_pickup:true, add:false, force:{transfer_player_motion:true, base:0.28d, fling:{multiplier:0.9d}, variation:{rotation:{radial:{min:0, max:5}}}}}
+
+data modify storage throwhard:config throw.fishing_rod set value {enable:true, add:false, force:{transfer_player_motion:true, base:1d, fling:{multiplier:1.2d}}}

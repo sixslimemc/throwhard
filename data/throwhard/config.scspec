@@ -1,0 +1,20 @@
+{
+    throw: {
+        item: ThrowConfig << {
+            fast_pickup: bool
+        }
+        snowball: ThrowConfig
+        ender_pearl: ThrowConfig
+        fishing_rod: ThrowConfig
+        egg: ThrowConfig
+        potion: ThrowConfig
+        bow: ThrowConfig
+        crossbow: ThrowConfig
+    }
+}
+
+ThrowConfig := {
+    enable: bool
+    add: bool
+    force: throwhardlib\ForceSpec
+}
