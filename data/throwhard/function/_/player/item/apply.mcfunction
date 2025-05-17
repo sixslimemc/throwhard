@@ -1,4 +1,4 @@
-#> throwhard:_/player/snowball/apply
+#> throwhard:_/player/item/apply
 #--------------------
 # ./trigger
 #--------------------
