@@ -8,6 +8,7 @@ scoreboard objectives add _throwhard dummy
 scoreboard objectives add _throwhard.snowball minecraft.used:minecraft.snowball
 scoreboard objectives add _throwhard.item minecraft.custom:drop
 scoreboard objectives add _throwhard.fishing_rod minecraft.used:minecraft.fishing_rod
+scoreboard objectives add _throwhard.ender_pearl minecraft.used:minecraft.ender_pearl
 
 # DEBUG:
 scoreboard players set *init _throwhard 0
