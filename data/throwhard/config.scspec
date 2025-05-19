@@ -7,7 +7,8 @@
         ender_pearl: ThrowConfig
         fishing_rod: ThrowConfig
         egg: ThrowConfig
-        potion: ThrowConfig
+        splash_potion: ThrowConfig
+        lingering_potion: ThrowConfig
         bow: ThrowConfig
         crossbow: ThrowConfig
     }
