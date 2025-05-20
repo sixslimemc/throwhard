@@ -9,8 +9,6 @@
         egg: ThrowConfig
         splash_potion: ThrowConfig
         lingering_potion: ThrowConfig
-        bow: ThrowConfig
-        crossbow: ThrowConfig
     }
 }
 
