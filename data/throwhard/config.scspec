@@ -1,8 +1,6 @@
 {
     throw: {
-        item: ThrowConfig << {
-            fast_pickup: bool
-        }
+        item: ThrowConfig
         snowball: ThrowConfig
         ender_pearl: ThrowConfig
         fishing_rod: ThrowConfig
